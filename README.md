@@ -1,4 +1,4 @@
-# CSI Human Movement Recognition in Smart Homes
+# Wi-Fi CSI Human Movement Recognition using visualized readings
 
 ## Overview
 
