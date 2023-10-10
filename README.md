@@ -23,7 +23,7 @@ This groundbreaking research:
 
 1. Download the dataset: the data set chosen for this project is a publicly available data set, shared in [here](https://github.com/ermongroup/Wifi_Activity_Recognition).
 2. Run preprocessing scripts: **data_proc_to_images.ipynb** and then **data_processsing_fin.ipynb**.
-3. Run main script.
+3. Run main **model.py** script.
 
 To delve deeper into the methodologies, results, and implications of this research, refer to the main content of the thesis. For any collaborations, extensions, or discussions, please contact the research team.
 
